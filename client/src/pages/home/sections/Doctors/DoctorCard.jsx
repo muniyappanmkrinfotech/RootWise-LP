@@ -1,6 +1,6 @@
 import React, { memo } from 'react';
-import dharmikaImg from '@/assets/doctors/doctor-dharmika-hd.jpg';
-import subhadharshiniImg from '@/assets/doctors/doctor-subhadharshini-hd.jpg';
+import dharmikaImg from '@/assets/doctors/Doctor 1st img.jpeg';
+import subhadharshiniImg from '@/assets/doctors/Doctor 2nd img.jpeg';
 import vivekImg from '@/assets/doctors/doctor-vivek-hd.jpg';
 
 const DOCTOR_IMAGES = {
